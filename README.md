@@ -53,4 +53,4 @@ The output file `result.html` will be created in the same directory as the `\pat
 
 
 ## Note
-If you find this utility usefull, let me know :)
+If you find this utility useful, let me know :)
