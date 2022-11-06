@@ -23,6 +23,9 @@ Next version will be re(written) in C++ for native support in Linux based Postil
 
 ## Usage
 
+First compile with Visual Studio (tested on 2022) with .NET 4.7.2
+
+
 ```Powershell
 C:\sysinfodiff.exe \path_to_sysinfos
 ```
