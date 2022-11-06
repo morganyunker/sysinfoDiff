@@ -39,7 +39,7 @@ C:\sysinfodiff.exe C:\Development\SysinfoDiff\Sysinfos
 │   │   ├── SystemInfo.txt
 │   ├── UATSysinfo
 │   │   ├── SystemInfo.txt
-│   ├── ProdSysfo
+│   ├── ProdSysinfo
 │   │   ├── SystemInfo.txt
 ```
 
